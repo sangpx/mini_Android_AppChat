@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "586119241104",
+    "project_id": "mychatapp-2405b",
+    "storage_bucket": "mychatapp-2405b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586119241104:android:ac006b048ad3f61d82a715",
+        "android_client_info": {
+          "package_name": "com.chutich.appchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586119241104-3401jkr3fvqp0hk7bbou4ohjj3vpqh8h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chutich.appchat",
+            "certificate_hash": "e6fdb800e2e6bd4f6c985726e43bfebf9026d90d"
+          }
+        },
+        {
+          "client_id": "586119241104-4lnocj6bc9l4l48oe5blkrqkck4kj9qi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEghrrEtGIkwh7x9CicMA-hpDe79pUHYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586119241104-4lnocj6bc9l4l48oe5blkrqkck4kj9qi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
